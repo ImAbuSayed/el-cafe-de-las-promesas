@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/el-cafe-de-las-promesas/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for El café de las promesas](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/el-cafe-de-las-promesas/) |
+| **Get License** | [License this song: El café de las promesas](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/el-cafe-de-las-promesas/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Noche oscura en Madrid, you're looking like a dream
+> Tus ojos me dicen secretos, brillando en el VIP
+> Yo sé que tú quieres jugar, no me lo vas a fingir
+> Esta tensión me está matando, baby, let's make a scene
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
