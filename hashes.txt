@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - El café de las promesas
+
+This log tracks the cryptographic history and versioning for the song **El café de las promesas** (el-cafe-de-las-promesas).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-13T18:19:52.307676 | `v1` | `951b9c622bc0a2289bb8c47e2597e90556d766b3f1c216486ecc9e4bc9968951` | `6085ab0a8a97db7571e81db97e18835b5da551c23028a900917f64e9f85d2910` | `2026-06-13_el-cafe-de-las-promesas-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
